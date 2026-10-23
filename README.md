@@ -1,7 +1,7 @@
 # Beverage Sales Performance Dashboard
 ### Interactive sales, revenue, and profitability analysis using Microsoft Power BI
 
-![Beverage Sales Performance Dashboard](assets/dashboard_screenshot.png)
+![Beverage Sales Performance Dashboard](assets/dashboard_image.png)
 
 ## 1. Project Overview
 
